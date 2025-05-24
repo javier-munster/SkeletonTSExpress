@@ -1,6 +1,7 @@
 {
-    "name": "jabber",
+    "name": "skeletontsexpress",
     "version": "0.0.1",
+    "author": "javier",
     "private": true,
     "main": "dist/index.js",
     "packageManager": "yarn@4.5.2",
